@@ -7,7 +7,9 @@
 
 ## Execução
  Por ser uma apliação Maven, a solução pode ser executada em qualquer IDE com suporte. 
- Exemplos: Eclipse, IntellJ, STS e outras.
+ Exemplos: Eclipse, IntelliJ, STS e outras.
+ 
+ Api estará disponivel no endereço: **localhost:8080/senha/validacao/{senha}**
 
  Para execução via CI usando Maven executar os seguintes comandos:
 
